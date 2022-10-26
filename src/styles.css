@@ -1,0 +1,47 @@
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+.App > header {
+    color: #232323;
+    font-family: Inter;
+    font-size: 14px;
+}
+
+.Countdown {
+    display: flex;
+    justify-content: center;
+    padding-top: 32px;
+}
+
+.CountdownTimeSegment {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.CountdownTimeSegmentValue {
+    color: #ff5733;
+    font-family: Inter;
+    font-size: 28px;
+}
+
+.CountdownTimeSegmentLabel {
+    color: #232323;
+    font-family: Inter;
+    font-size: 12px;
+}
+
+.Divider {
+    font-size: 12px;
+    width: 2px;
+    background-color: #232323;
+    margin-left: 32px;
+    margin-right: 32px;
+}

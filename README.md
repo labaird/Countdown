@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Countdown App Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A countdown timer using native Javascript (no 3rd party date/time formatting libraries).
+
+This project was built October 22-25 2022 using React, Testing Library, and Typescript.
+
+If you would like to use it for yourself, give the target date a new Date value in App.tsx to get started.
 
 ## Available Scripts
 
